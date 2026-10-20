@@ -9,7 +9,7 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=2800&pause=700&color=64FFBD&center=true&vCenter=true&width=700&lines=%3E+Je+transforme+les+id%C3%A9es+en+exp%C3%A9riences+web.%3B%3E+Pixels%2C+code+et+interfaces+bien+pens%C3%A9es.%3B%3E+Building+digital+things%2C+one+line+at+a+time." alt="Texte animé : développement web, pixels, code et interfaces" />
 
-<sub><code>STATUS: OPEN TO COLLABORATION</code>　<code>LOCATION: FRANCE</code>　<code>MODE: BUILDING</code></sub>
+<sub><code>STATUS: FOCUS MODE</code>　<code>LOCATION: FRANCE</code>　<code>MODE: BUILDING</code></sub>
 
 </div>
 
@@ -60,11 +60,11 @@ Des espaces structurés pour publier, partager et raconter.
 
 - <img src="https://img.shields.io/badge/BUILDING-APPIX-64FFBD?style=flat-square&labelColor=07111B" alt="Building APPIX" /> Faire évoluer mon projet et explorer de nouvelles idées.
 - <img src="https://img.shields.io/badge/LEARNING-DAILY-9B8CFF?style=flat-square&labelColor=07111B" alt="Learning daily" /> Affiner mes pratiques de développement et de conception.
-- <img src="https://img.shields.io/badge/OPEN-COLLABS-FFD68A?style=flat-square&labelColor=07111B" alt="Open collaborations" /> Échanger avec des développeurs, designers, indépendants et porteurs de projets.
+- <img src="https://img.shields.io/badge/FOCUS-PERSONAL_PROJECTS-FFD68A?style=flat-square&labelColor=07111B" alt="Focus sur les projets personnels" /> Me concentrer sur mes projets, progresser et faire évoluer APPIX à mon rythme.
 
 ## <img src="https://img.shields.io/badge/05-CONNECT-64FFBD?style=flat-square&labelColor=07111B" alt="05 Connect" />
 
-Une idée de site, un projet à construire ou simplement envie de parler web ? Retrouvons-nous ici :
+En ce moment, je me concentre sur mes projets personnels et le développement d’APPIX. Les liens ci-dessous permettent de découvrir mon travail et mon parcours :
 
 <div align="center">
 
