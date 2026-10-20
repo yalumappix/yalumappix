@@ -1,0 +1,59 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="320" viewBox="0 0 1000 320" role="img" aria-labelledby="title desc">
+  <title id="title">YALUM — Pixel Web Lab</title>
+  <desc id="desc">Bannière animée inspirée d'un terminal de développement, de pixels et de lignes numériques vert néon.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#07111b"/><stop offset=".55" stop-color="#0b171c"/><stop offset="1" stop-color="#102c28"/></linearGradient>
+    <linearGradient id="shine" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#64ffbd" stop-opacity="0"/><stop offset=".5" stop-color="#64ffbd" stop-opacity=".9"/><stop offset="1" stop-color="#64ffbd" stop-opacity="0"/></linearGradient>
+    <pattern id="grid" width="22" height="22" patternUnits="userSpaceOnUse"><path d="M22 0H0V22" fill="none" stroke="#77ffc2" stroke-opacity=".075" stroke-width="1"/></pattern>
+    <filter id="glow"><feGaussianBlur stdDeviation="4" result="blur"/><feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+    <style>
+      .mono{font-family:'SFMono-Regular',Consolas,'Liberation Mono',monospace}
+      .pixel{animation:blink 2.8s steps(2,end) infinite}
+      .float{animation:float 5s ease-in-out infinite}
+      .float2{animation:float 6s ease-in-out -2s infinite}
+      .scan{animation:scan 6s linear infinite}
+      .cursor{animation:cursor 1s steps(2,end) infinite}
+      .pulse{animation:pulse 3s ease-in-out infinite;transform-box:fill-box;transform-origin:center}
+      @keyframes blink{0%,45%,100%{opacity:.22}50%,85%{opacity:1}}
+      @keyframes float{0%,100%{transform:translateY(0)}50%{transform:translateY(-9px)}}
+      @keyframes scan{0%{transform:translateY(-30px);opacity:0}10%{opacity:.8}90%{opacity:.45}100%{transform:translateY(320px);opacity:0}}
+      @keyframes cursor{0%,49%{opacity:1}50%,100%{opacity:0}}
+      @keyframes pulse{0%,100%{opacity:.5;transform:scale(.94)}50%{opacity:1;transform:scale(1.08)}}
+    </style>
+  </defs>
+  <rect width="1000" height="320" rx="18" fill="url(#bg)"/>
+  <rect width="1000" height="320" rx="18" fill="url(#grid)"/>
+  <path d="M0 252H1000" stroke="#54f7b0" stroke-opacity=".12"/>
+  <g opacity=".9">
+    <rect x="38" y="34" width="10" height="10" fill="#68ffc0"/><rect x="52" y="34" width="10" height="10" fill="#68ffc0" opacity=".35"/><rect x="38" y="48" width="10" height="10" fill="#68ffc0" opacity=".35"/>
+    <text x="76" y="45" class="mono" font-size="12" letter-spacing="3" fill="#91a9ad">YALUM / DIGITAL WORKSPACE</text>
+    <text x="962" y="45" text-anchor="end" class="mono" font-size="11" fill="#5f827f">SYS.ONLINE <tspan fill="#6affb9">●</tspan></text>
+  </g>
+  <g class="mono">
+    <text x="76" y="119" font-size="14" fill="#6affb9">$ whoami</text>
+    <text x="76" y="181" font-size="58" font-weight="700" letter-spacing="2" fill="#f2fff9" filter="url(#glow)">YALUM</text>
+    <rect class="cursor" x="286" y="139" width="10" height="47" fill="#6affb9"/>
+    <text x="78" y="214" font-size="15" letter-spacing="2.2" fill="#9bb9b2">WEB DEVELOPER <tspan fill="#4ef2ac">/</tspan> DIGITAL BUILDER</text>
+    <text x="78" y="279" font-size="12" fill="#6affb9">BUILDING IDEAS INTO THE WEB_</text>
+    <text x="78" y="299" font-size="10" fill="#6b8586">HTML · CSS · JAVASCRIPT · UI · PIXEL CRAFT</text>
+  </g>
+  <g transform="translate(680 78)">
+    <rect x="0" y="0" width="258" height="166" rx="10" fill="#071018" stroke="#3a7464" stroke-opacity=".85"/>
+    <path d="M0 30H258" stroke="#3a7464" stroke-opacity=".6"/>
+    <circle cx="16" cy="15" r="4" fill="#ff6f75"/><circle cx="30" cy="15" r="4" fill="#ffd166"/><circle cx="44" cy="15" r="4" fill="#63f7b5"/>
+    <text x="60" y="19" class="mono" font-size="9" fill="#73918d">app.js</text>
+    <g class="mono" font-size="11">
+      <text x="15" y="54" fill="#8c9ca4">01</text><text x="39" y="54" fill="#b8a3ff">const</text><text x="76" y="54" fill="#f0f7f4"> vision = {</text>
+      <text x="15" y="76" fill="#8c9ca4">02</text><text x="39" y="76" fill="#6affb9">  design:</text><text x="100" y="76" fill="#ffd68a"> "pixel-perfect",</text>
+      <text x="15" y="98" fill="#8c9ca4">03</text><text x="39" y="98" fill="#6affb9">  motion:</text><text x="100" y="98" fill="#ffd68a"> "always-on",</text>
+      <text x="15" y="120" fill="#8c9ca4">04</text><text x="39" y="120" fill="#6affb9">  purpose:</text><text x="100" y="120" fill="#ffd68a"> "human"</text>
+      <text x="15" y="142" fill="#8c9ca4">05</text><text x="39" y="142" fill="#f0f7f4">};</text>
+    </g>
+    <rect class="scan" x="1" y="31" width="256" height="2" fill="url(#shine)" opacity=".7"/>
+  </g>
+  <g class="pixel" fill="#6affb9"><rect x="632" y="69" width="8" height="8"/><rect x="648" y="85" width="8" height="8"/><rect x="632" y="101" width="8" height="8"/><rect x="948" y="253" width="8" height="8"/><rect x="964" y="269" width="8" height="8"/></g>
+  <g class="float" fill="#5cf6b1"><rect x="626" y="176" width="9" height="9"/><rect x="642" y="192" width="9" height="9"/><rect x="626" y="208" width="9" height="9"/></g>
+  <g class="float2" fill="#7b9cff"><rect x="948" y="82" width="7" height="7"/><rect x="962" y="96" width="7" height="7"/><rect x="948" y="110" width="7" height="7"/></g>
+  <circle class="pulse" cx="931" cy="282" r="4" fill="#6affb9" filter="url(#glow)"/>
+  <rect x="0" y="315" width="1000" height="5" fill="#54f7b0" opacity=".75"/>
+</svg>
