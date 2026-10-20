@@ -1,40 +1,54 @@
-# 👋 Salut, moi c’est YALUM
-
+<!-- YALUM • PIXEL WEB LAB -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:0B1117,100:145C50&section=header&text=YALUM&fontSize=52&fontColor=FFFFFF&fontAlignY=38&desc=D%C3%A9veloppement%20web%20%7C%20Sites%20clairs%20et%20soign%C3%A9s&descAlignY=62&descSize=16" width="100%" alt="Bannière Yalum — développement web, sites clairs et soignés" />
+<img src="https://raw.githubusercontent.com/yalumappix/yalumappix/main/assets/yalum-pixel-world.svg" width="100%" alt="YALUM — bannière animée pixel art et terminal de développement" />
 
-**Développeur web freelance · Créateur d’APPIX · Basé en France**
+<a href="https://odd-salad-6409.yalum-appix.workers.dev"><img src="https://img.shields.io/badge/EXPLORE-APPIX-64FFBD?style=for-the-badge&logo=vercel&logoColor=07111B&labelColor=07111B" alt="Découvrir APPIX" /></a>
+<a href="https://www.malt.fr/profile/zumragokhan?overview"><img src="https://img.shields.io/badge/LET'S_WORK-MALT-9B8CFF?style=for-the-badge&logo=malt&logoColor=FFFFFF&labelColor=07111B" alt="Me contacter sur Malt" /></a>
+<a href="https://plateforme.freelance.com/freelance/yalum-dfac7b07-d2e4-4a4f-9767-369765b27ba0"><img src="https://img.shields.io/badge/FREELANCE.COM-ONLINE-64FFBD?style=for-the-badge&logoColor=FFFFFF&labelColor=07111B" alt="Profil Freelance.com" /></a>
 
-*Je transforme les idées en expériences web simples, utiles et soignées.*
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=2800&pause=700&color=64FFBD&center=true&vCenter=true&width=700&lines=%3E+Je+transforme+les+id%C3%A9es+en+exp%C3%A9riences+web.%3B%3E+Pixels%2C+code+et+interfaces+bien+pens%C3%A9es.%3B%3E+Building+digital+things%2C+one+line+at+a+time." alt="Texte animé : développement web, pixels, code et interfaces" />
 
-[🌐 Découvrir APPIX](https://odd-salad-6409.yalum-appix.workers.dev) · [💼 Mon profil Malt](https://www.malt.fr/profile/zumragokhan?overview) · [🤝 Mon profil Freelance.com](https://plateforme.freelance.com/freelance/yalum-dfac7b07-d2e4-4a4f-9767-369765b27ba0)
-
-![Disponible](https://img.shields.io/badge/Disponible-pour%20%C3%A9changer-145C50?style=for-the-badge&labelColor=0B1117)
-![France](https://img.shields.io/badge/Bas%C3%A9-en%20France-145C50?style=for-the-badge&labelColor=0B1117)
+<sub><code>STATUS: OPEN TO COLLABORATION</code>　<code>LOCATION: FRANCE</code>　<code>MODE: BUILDING</code></sub>
 
 </div>
 
 ---
 
-## 🚀 Ce que je peux faire pour vous
+## <img src="https://img.shields.io/badge/01-ABOUT-64FFBD?style=flat-square&labelColor=07111B" alt="01 About" />
 
-Que vous soyez indépendant, association, créateur, entrepreneur ou entreprise, je peux vous aider à présenter votre activité sur le web.
+Salut, moi c’est **YALUM** — développeur web freelance et créateur d’**APPIX**.
 
-- **Pages d’atterrissage** — présenter une offre et guider les visiteurs vers l’action.
-- **Sites vitrines** — expliquer votre activité et renforcer votre présence en ligne.
-- **Portfolios** — mettre en valeur vos projets, compétences et créations.
-- **Blogs et pages de contenu** — partager vos idées dans une structure claire.
+J’aime créer des expériences web qui mélangent **identité visuelle, simplicité et utilité**. Du premier pixel à la mise en ligne, je cherche à faire des interfaces qui ont du caractère tout en restant faciles à utiliser.
 
-Mon approche : un design lisible, une navigation intuitive et une attention portée aux détails. L’objectif est de créer quelque chose qui vous ressemble et qui soit facile à utiliser.
+> `while (curious) { learn(); build(); improve(); }`
 
-## 🧭 À propos
+## <img src="https://img.shields.io/badge/02-WHAT_I_BUILD-64FFBD?style=flat-square&labelColor=07111B" alt="02 What I build" />
 
-Je suis développeur web freelance et je construis **APPIX**, un projet que je fais évoluer progressivement. J’aime donner forme aux idées, apprendre en construisant et chercher le bon équilibre entre apparence, simplicité et utilité.
+<table>
+<tr>
+<td width="50%" valign="top">
 
-Je suis ouvert aux échanges avec des clients, des développeurs, des designers, des porteurs de projet et toute personne qui souhaite construire quelque chose de positif.
+### ◈ Sites vitrines
+Des sites clairs pour présenter une activité, une marque ou une entreprise.
 
-## 🛠️ Technologies et outils
+### ◈ Landing pages
+Des pages focalisées sur un message fort et une action simple.
+
+</td>
+<td width="50%" valign="top">
+
+### ◈ Portfolios
+Des expériences qui mettent les projets et les talents en avant.
+
+### ◈ Blogs & contenu
+Des espaces structurés pour publier, partager et raconter.
+
+</td>
+</tr>
+</table>
+
+## <img src="https://img.shields.io/badge/03-TECH_STACK-64FFBD?style=flat-square&labelColor=07111B" alt="03 Tech stack" />
 
 <div align="center">
 
@@ -42,23 +56,21 @@ Je suis ouvert aux échanges avec des clients, des développeurs, des designers,
 
 </div>
 
-## 🌱 En ce moment
+## <img src="https://img.shields.io/badge/04-NOW_LOADING-64FFBD?style=flat-square&labelColor=07111B" alt="04 Now loading" />
 
-- Faire évoluer **APPIX** et améliorer mes projets web.
-- Approfondir mes pratiques de développement et de conception.
-- Échanger avec la communauté et découvrir de nouvelles idées.
+- <img src="https://img.shields.io/badge/BUILDING-APPIX-64FFBD?style=flat-square&labelColor=07111B" alt="Building APPIX" /> Faire évoluer mon projet et explorer de nouvelles idées.
+- <img src="https://img.shields.io/badge/LEARNING-DAILY-9B8CFF?style=flat-square&labelColor=07111B" alt="Learning daily" /> Affiner mes pratiques de développement et de conception.
+- <img src="https://img.shields.io/badge/OPEN-COLLABS-FFD68A?style=flat-square&labelColor=07111B" alt="Open collaborations" /> Échanger avec des développeurs, designers, indépendants et porteurs de projets.
 
-## 🤝 Vous avez une idée ?
+## <img src="https://img.shields.io/badge/05-CONNECT-64FFBD?style=flat-square&labelColor=07111B" alt="05 Connect" />
 
-Vous souhaitez créer un site, améliorer une présence en ligne ou simplement discuter d’un projet ? Vous pouvez me contacter via l’un des liens ci-dessous.
+Une idée de site, un projet à construire ou simplement envie de parler web ? Retrouvons-nous ici :
 
 <div align="center">
 
-[![Découvrir APPIX](https://img.shields.io/badge/D%C3%A9couvrir-APPIX-91D8BE?style=for-the-badge&labelColor=0B1117)](https://odd-salad-6409.yalum-appix.workers.dev)
-[![Malt](https://img.shields.io/badge/Me_contacter-Malt-145C50?style=for-the-badge&labelColor=0B1117)](https://www.malt.fr/profile/zumragokhan?overview)
-[![Freelance.com](https://img.shields.io/badge/Me_contacter-Freelance.com-145C50?style=for-the-badge&labelColor=0B1117)](https://plateforme.freelance.com/freelance/yalum-dfac7b07-d2e4-4a4f-9767-369765b27ba0)
-
-*Merci d’être passé sur mon profil — bonne découverte !*
+[![APPIX](https://img.shields.io/badge/↗_APPIX-Visit_project-64FFBD?style=for-the-badge&labelColor=07111B)](https://odd-salad-6409.yalum-appix.workers.dev)
+[![Malt](https://img.shields.io/badge/↗_MALT-Contact_me-9B8CFF?style=for-the-badge&labelColor=07111B)](https://www.malt.fr/profile/zumragokhan?overview)
+[![Freelance.com](https://img.shields.io/badge/↗_FREELANCE.COM-My_profile-64FFBD?style=for-the-badge&labelColor=07111B)](https://plateforme.freelance.com/freelance/yalum-dfac7b07-d2e4-4a4f-9767-369765b27ba0)
 
 </div>
 
@@ -66,6 +78,8 @@ Vous souhaitez créer un site, améliorer une présence en ligne ou simplement d
 
 <div align="center">
 
-<sub>Conçu avec curiosité, construit avec soin. · YALUM / APPIX</sub>
+<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:64FFBD,50:9B8CFF,100:64FFBD&section=footer" width="100%" alt="" />
+
+<sub><code>DESIGNED IN CURIOSITY · BUILT WITH CARE · YALUM / APPIX ©</code></sub>
 
 </div>
