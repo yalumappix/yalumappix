@@ -52,7 +52,7 @@ Des espaces organisés pour publier des articles et partager du contenu.
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,git,github,vscode&theme=dark" alt="HTML, CSS, JavaScript, Git, GitHub et VS Code" />
+<img src="https://skillicons.dev/icons?i=html,css,js&theme=dark" alt="HTML, CSS et JavaScript" />
 
 </div>
 
