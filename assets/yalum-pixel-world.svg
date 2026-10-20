@@ -35,7 +35,7 @@
     <rect class="cursor" x="286" y="139" width="10" height="47" fill="#6affb9"/>
     <text x="78" y="214" font-size="15" letter-spacing="2.2" fill="#9bb9b2">WEB DEVELOPER <tspan fill="#4ef2ac">/</tspan> DIGITAL BUILDER</text>
     <text x="78" y="279" font-size="12" fill="#6affb9">BUILDING IDEAS INTO THE WEB_</text>
-    <text x="78" y="299" font-size="10" fill="#6b8586">HTML · CSS · JAVASCRIPT · UI · PIXEL CRAFT</text>
+    <text x="78" y="299" font-size="10" fill="#6b8586">HTML · CSS · JAVASCRIPT</text>
   </g>
   <g transform="translate(680 78)">
     <rect x="0" y="0" width="258" height="166" rx="10" fill="#071018" stroke="#3a7464" stroke-opacity=".85"/>
