@@ -1,4 +1,3 @@
-<!-- YALUM • PIXEL WEB LAB -->
 <div align="center">
 
 <img src="https://raw.githubusercontent.com/yalumappix/yalumappix/main/assets/yalum-pixel-world.svg" width="100%" alt="YALUM — bannière animée pixel art et terminal de développement" />
@@ -13,7 +12,7 @@
 
 </div>
 
----
+
 
 ## <img src="https://img.shields.io/badge/01-ABOUT-64FFBD?style=flat-square&labelColor=07111B" alt="01 About" />
 
