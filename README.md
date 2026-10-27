@@ -47,7 +47,23 @@ Des espaces organisés pour publier des articles et partager du contenu.
 </tr>
 </table>
 
-## <img src="https://img.shields.io/badge/03-TECH_STACK-64FFBD?style=flat-square&labelColor=07111B" alt="03 Tech stack" />
+## <img src="https://img.shields.io/badge/03-PROJETS-64FFBD?style=flat-square&labelColor=07111B" alt="03 Projets" />
+
+### APPIX — Studio web indépendant
+Mon projet personnel de création web : site vitrine, présentation de services, projets de démonstration et parcours de brief.
+
+- [Voir le code source](https://github.com/yalumappix/APPIX)
+- [Découvrir le site APPIX](https://odd-salad-6409.yalum-appix.workers.dev)
+
+### Ce que je peux réaliser
+- **Sites vitrines** pour présenter une activité et ses services
+- **Landing pages** organisées autour d’un objectif clair
+- **Intégration responsive** en HTML et CSS
+- **Interactions front-end** simples en JavaScript
+
+*Les concepts fictifs sont identifiés comme tels. Les réalisations clients ne sont présentées qu’avec les autorisations nécessaires.*
+
+## <img src="https://img.shields.io/badge/04-TECH_STACK-64FFBD?style=flat-square&labelColor=07111B" alt="04 Tech stack" />
 
 <div align="center">
 
@@ -55,18 +71,18 @@ Des espaces organisés pour publier des articles et partager du contenu.
 
 </div>
 
-## <img src="https://img.shields.io/badge/04-NOW_LOADING-64FFBD?style=flat-square&labelColor=07111B" alt="04 Now loading" />
+## <img src="https://img.shields.io/badge/05-NOW_LOADING-64FFBD?style=flat-square&labelColor=07111B" alt="05 Now loading" />
 
 - <img src="https://img.shields.io/badge/CLIENT_WORK-WEB-64FFBD?style=flat-square&labelColor=07111B" alt="Création de sites web pour les clients" /> Concevoir des sites adaptés aux besoins et aux objectifs de chaque client.
 - <img src="https://img.shields.io/badge/PERSONAL_PROJECT-APPIX-9B8CFF?style=flat-square&labelColor=07111B" alt="APPIX, projet personnel" /> Développer et faire évoluer APPIX, mon propre site et projet personnel.
 - <img src="https://img.shields.io/badge/LEARNING-APPRENTICESHIP-FFD68A?style=flat-square&labelColor=07111B" alt="Formation par apprentissage" /> Continuer à apprendre et à améliorer mes pratiques de développement.
 - <img src="https://img.shields.io/badge/SEO-SELF_TRAINING-64FFBD?style=flat-square&labelColor=07111B" alt="Apprentissage autonome du SEO" /> Me former en autonomie au référencement naturel (SEO) et travailler seul sur cette partie.
 
-## <img src="https://img.shields.io/badge/05-ABOUT_APPIX-64FFBD?style=flat-square&labelColor=07111B" alt="05 About APPIX" />
+## <img src="https://img.shields.io/badge/06-ABOUT_APPIX-64FFBD?style=flat-square&labelColor=07111B" alt="06 About APPIX" />
 
 **APPIX est mon projet personnel** : mon propre site, que je développe et améliore à mon rythme. C’est un terrain d’expérimentation pour mettre en pratique mes idées et continuer à progresser.
 
-## <img src="https://img.shields.io/badge/06-CONNECT-64FFBD?style=flat-square&labelColor=07111B" alt="06 Connect" />
+## <img src="https://img.shields.io/badge/07-CONNECT-64FFBD?style=flat-square&labelColor=07111B" alt="07 Connect" />
 
 Tu peux consulter mes profils pour découvrir mon travail, mes projets et mon activité de création de sites web.
 
